@@ -29,7 +29,7 @@
         
     elsif result == 0 then
         #あいこの場合
-        print "あいこです\n"
+        print "あいこです!!!!\n"
         times += 1
     end
 end
